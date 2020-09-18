@@ -42,4 +42,4 @@ I've simply looked through a list of W3 school exmaples in order to adapt an alr
 
 If you have any questions, please contact me on:
 GitHub at [avaarm](https://github.com/avaarm)
-Email at [Armenuhi](mailto:avaarm95@mail.com)
+Email at [Emma](mailto:avaarm95@mail.com)
