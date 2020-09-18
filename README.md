@@ -40,6 +40,6 @@ I've simply looked through a list of W3 school exmaples in order to adapt an alr
 
 ## Questions 
 
-If you have any questions, please contact me on:
+If you have any questions, please contact at:
 GitHub at [avaarm](https://github.com/avaarm)
 Email at [Emma](mailto:avaarm95@mail.com)
