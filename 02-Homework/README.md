@@ -1,50 +1,45 @@
-# 01 HTML CSS Git: Code Refactor
+# Accessibility Practice
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the
+<!-- [![GitHub License](https://img.shields.io/badge/License-orange.svg)](Develop/License/MIT.md) -->
+<!-- [![GitHub Test](https://img.shields.io/badge/Test-blue.svg)](#test) -->
+<!-- can put technologies here as shield icons and their versions -->
 
-Here is a heuristic for making HTML more accessible:
-[HTML Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
+## Description 
 
-Scout Rule:
+Unaware of the world of accessibility, I stumbled upon a tweet from a blind individual who was having trouble accessing menu's on her 
+UberEats account. The realization hit me then that so much of how we design our spaces and applications is based on the assuption of being 
+"able-bodied". 
 
-> Always leave the code you are editing a little cleaner than you found it.
+This is an excercise in accessibility in order to get an understanding of how I can better serve the non able-bodied community (or those with different internet accesses) better with my future applciations.
+I've simply looked through a list of W3 school exmaples in order to adapt an already provided static html page to be more accessible. I've added alterantive tags to images in case a user for some reason can't view the images. I've additionally added a decriptive title and removed non-semantic elements such as <span>. 
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+## Table of Contents
 
-## User Story
+* [Description](#Description)
+* [Technologies](#technologies)
+* [Application](#Application)
+* [Acknowledgements](#acknowledgements)
+* [Questions](#questions)
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Technologies
 
-## Acceptance Criteria
+* HTML
+* CSS
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
 
-## Review
+## Application 
 
-You are required to submit the following for review:
+![Finished Product](Develop/assets/images/app.png)
 
-- The URL of the deployed application.
+## Acknowledgements
 
-- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* UW Coding Bootcamp instructional team and classmates
+    * skeleton of html files already provided
+* W3 Schools 
 
----
+## Questions 
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+If you have any questions, please contact me on:
+GitHub at [avaarm](https://github.com/avaarm)
+Email at [Armenuhi](mailto:avaarm95@mail.com)
