@@ -44,5 +44,3 @@ If you have any questions, please contact at:
 GitHub at [avaarm](https://github.com/avaarm)
 Email at [Emma](mailto:avaarm95@mail.com)
 
-
-asdfa
